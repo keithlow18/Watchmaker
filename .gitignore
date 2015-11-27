@@ -1,0 +1,9 @@
+dist
+docs
+release
+temp
+website
+*/build
+*.iws
+.idea/workspace.xml
+.DS_Store
